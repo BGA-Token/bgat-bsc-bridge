@@ -13,3 +13,14 @@ states/
 # Optional
 .env
 .env.local
+
+---
+```gitignore
+node_modules/
+.env
+bridge.log
+coverage/
+artifacts/
+cache/
+hardhat.log
+.DS_Store
